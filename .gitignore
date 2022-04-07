@@ -1,0 +1,4 @@
+*.targets
+.vs/*
+PolishCalc_TestApp/obj/*
+PolishCalc_TestApp/bin/*
